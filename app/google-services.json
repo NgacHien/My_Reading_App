@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122858609238",
+    "project_id": "my-reading-app-b3aca",
+    "storage_bucket": "my-reading-app-b3aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122858609238:android:1ac152ab7fc625c534b9f7",
+        "android_client_info": {
+          "package_name": "com.example.myreadingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDWq8DGj986XiB634XDTDSqaM59j1dltY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
